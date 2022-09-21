@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">registrasi mahasiswa</string>
+    <string-array name="nama_prodi">
+        <item>Teknik Arsitektur</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Listrik</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik informatika</item>
+        <item>Sastra Inggris</item>
+    </string-array>
+</resources>
